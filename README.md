@@ -1,7 +1,10 @@
 # Flappy_Bird
 
 
-本工程用C++语言对经典游戏Flappy Bird进行了简单复现，工程仅完成了 **`游戏逻辑`** 的实现，并没有完成 **`贴图`**  部分
+
+本工程用C++语言对经典游戏Flappy Bird进行了简单复现，工程仅完成了 **`游戏逻辑`** 的实现，并没有完成 **`贴图`**  部分  
+  
+工程在2019年暑假完成，于2021年7月整理上传
 
 ![$5KHGCPUJ(S7473K_B TP8P](https://user-images.githubusercontent.com/49380713/126732177-616f76dc-4ace-4b98-917a-bd7397efb5a0.png)
 
